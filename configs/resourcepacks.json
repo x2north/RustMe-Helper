@@ -1,0 +1,236 @@
+{
+    "resourcepacks":{
+        "Классика":{
+            "CLASS565":{
+                "link":"https://drive.google.com/file/d/11RyIcBCVlD_NwSXvFobcIMu1V-iBwnNJ/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1211593158924836865/1211593947030356058/2024-02-h18_13.23.16.png?ex=66c6f9cb&is=66c5a84b&hm=18699f21a4984d73e5f248232692ee5003f8f0f08caadc41c2712fc409098e68&",
+                "description":"В ресурс-паке присутствуют скины исключительно из оригинальной игры Rust. Создавался он вручную, без наложения скриншотов.\nСкины присутствуют на стрелковое и холодное оружие, инструменты, конструкции, броню и на текстуры руд.",
+                "last_update":"09.10.2024",
+                "author":"CLASS565 | https://discord.gg/rRBgS9hzQe",
+                "version":"2",
+                "partner": true,
+                "install":"Основной рп"
+            },
+            "Ly4oS":{
+                "link":"https://drive.google.com/file/d/1XlIFemtpaUAVieNWc1Ou1Qu29WPbacUi/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1245360120993415259/1245371397925109780/2024-05-29_16.39.35.png?ex=66c6973f&is=66c545bf&hm=ee6b632c0492bb76c76e29a96303d4d7586ad9302c1312c62f197d66e034f598&",
+                "description":"",
+                "last_update":"07.07.2024",
+                "author":"Ly4oS | https://discord.gg/p6mENKp4Ff",
+                "version":"1",
+                "install":"Основной рп"
+            },
+            "Skuline Ryodan":{
+                "link":"https://drive.google.com/file/d/1aKeIV5IvzJLam-IxdeW0_KyOjQ962d1e/view?usp=sharing",
+                "image_link":"",
+                "description":"",
+                "last_update":"21.09.2024",
+                "author":"levia_chel22",
+                "version":"2",
+                "install":"Основной рп"
+            },
+            "Botik_884":{
+                "link":"https://drive.google.com/file/d/1mSRk3evHWSPDjobOLz9P-YsNp4lLS-yH/view?usp=sharing",
+                "image_link":"https://media.discordapp.net/attachments/1115574582401843281/1286058303063068834/4gACZM4.png?ex=66ec86a1&is=66eb3521&hm=8ee0c928111618aee269a698e3ef2e16504d4a17049f5977896724374761e375&=&format=webp&quality=lossless&width=550&height=288",
+                "description":"Ресурс-пак создавался исключительно на скинах их оригинальной игры Rust. Скины сделаны на инструментах, стрелковых оружиях, дверях и т.д.",
+                "last_update":"25.08.2024",
+                "author":"Botik_884",
+                "version":"2",
+                "install":"Основной рп"
+            }
+        },
+        "Модифицированный":{
+            "thund3rOctoberV2":{
+                "link":"https://drive.google.com/file/d/1k3t8ec0Jc9pIxtO2GjS8k1_WgicmqJk3/view",
+                "image_link":"https://cdn.discordapp.com/attachments/1208764370461401146/1257661061864361994/image.png?ex=66c722a3&is=66c5d123&hm=8b54c0f3e02fb8884ffbeb8c12b19d5821cc9cb2a97bcaac26f9e93b92f8b31e&",
+                "description":"",
+                "last_update":"27.08.2024",
+                "author":"thund3r | https://discord.gg/TYzE3FtdmG",
+                "version":"2",
+                "partner": true,
+                "install":"Основной рп"
+            },
+            "CLS RP":{
+                "link":"https://drive.google.com/file/d/1naSOcnJuh3HmqX-24bUzj2ZRx85q3j8z/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1101777295083065344/1275806408763379766/image.png?ex=66c73acf&is=66c5e94f&hm=6240864ce24d6b6434777ff9cb59aba1933698df696648bef80dfe68e533df79&",
+                "description":"",
+                "last_update":"11.08.2024",
+                "author":"FagoNekomY",
+                "version":"1",
+                "install":"Основной рп"
+            },
+            "20fps by thund3r":{
+                "link":"https://drive.google.com/drive/folders/15MTMH_Ezpx27vbOzBmURb8xT3Q8qPwC6?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1177647935245262859/1273656413482127474/image-118-1-1.png?ex=66c6a8b8&is=66c55738&hm=7d73d5d2e37949087252343e3f1a070e779bceaa62605124c483834534af182c&",
+                "description":"Белый ресурспак для пвп.",
+                "last_update":"15.08.2024",
+                "author":"thund3r | https://discord.gg/wXxvNUbj7m",
+                "version":"1",
+                "partner": true,
+                "install":"Основной рп"
+            },
+            "Rise":{
+                "link":"https://drive.google.com/file/d/1j6lfw9miEKS-Y9Q-4NNehQHVTAKhQk70/view?usp=drive_link",
+                "image_link":"https://cdn.discordapp.com/attachments/1023267743702728708/1275914361038438501/9UD1Rhn.png?ex=66c79f59&is=66c64dd9&hm=883ad21d336dd39e775e5fc454146b42e4b881868ec2dbf7adb51679b81d6f0b&",
+                "description":"Просто клан рп ( некоторые скины могут отличаться, например : хендмейд пулик, блоки, сундуки, двери, болт, смг)",
+                "last_update":"04.10.2024",
+                "author":"theden_v6",
+                "version":"2",
+                "install":"Основной рп"
+            },
+            "34ПРАВК4":{
+                "link":"https://drive.google.com/file/d/1HA_fMPKAX7k6uSu_bdzu0aRAE2nmwhmx/view?usp=sharing",
+                "image_link":"https://media.discordapp.net/attachments/1177647935245262859/1275965071029436497/image-358.png?ex=66c7ce93&is=66c67d13&hm=b49656da8f420ac6b7e0b60736f0b1e8da67dce9dc0b4e49da90628c39df8c0d&=&format=webp&quality=lossless",
+                "description":"",
+                "last_update":"22.08.2024",
+                "author":"Shot",
+                "version":"1",
+                "install":"Основной рп"
+            },
+            "PotatoRP":{
+                "link":"https://drive.google.com/file/d/1FRIyUmEhfUPNgt9tWXdJScQYi-d0Bc7V/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1101777295083065344/1276238901136330762/D5x67Tq.png?ex=66c8cd99&is=66c77c19&hm=ecee729654042b6a375583558bd864769358197aca7d7c25de92f6957f2dc5b9&",
+                "description":"РП сделан для слабых ПК (блоки, все предметы, ганы)\nСделан в 2 стилях: ЧерноБелый - скины и ФиолетовоРозовый - гуи и броня",
+                "last_update":"22.08.2024",
+                "author":".deeff",
+                "version":"1",
+                "install":"Основной рп"
+            },
+            "Pena RP":{
+                "link":"https://drive.google.com/file/d/1QpGJW8b3EJBfG_uiud7zsfXityA1YGQS/view?usp=sharing",
+              	"image_link":"https://media.discordapp.net/attachments/1238856633497554985/1275316934530961518/fabefe5ce7c2aa54.png?ex=66c8beb3&is=66c76d33&hm=f7aa6d671c005afae9ba1a971479a5514afe703855d0374adda61939065ed08f&=&format=webp&quality=lossless",
+                "description":"Это этот же рп ток другой калаш и сет и еще пару ганов +небо другое",
+                "last_update":"28.08.2024",
+                "author":"Pena",
+                "version":"2",
+                "install":"Основной рп"
+            },
+            "Ifrit":{
+                "link":"https://drive.google.com/file/d/1o6Uz_4oaiehM3QKC9uw17Uv50jLOvHwn/view?usp=sharing",
+              	"image_link":"https://cdn.discordapp.com/attachments/1275829889458503730/1280944179882758184/CeUogxw.png?ex=66d9ebbb&is=66d89a3b&hm=22d38720d7f6eebb721f42ab88e3b7a506f693797e7b36777e500570bab05f16&",
+                "description":"ресурспак в чёрно-белом стиле, созданный в основном для пвп.",
+                "last_update":"04.10.2024",
+                "author":"Ifrit | https://discord.gg/w93ZqAHr",
+                "version":"2",
+                "partner": true,
+                "install":"Основной рп"
+            },
+			"SlashV7":{
+                "link":"https://drive.google.com/file/d/1iLygWwQLhPXmXCNoCihWcmqOoccLqvYa/view?usp=sharing",
+              	"image_link":"",
+                "description":"РП в стиле не мало известного Hamster Combat.",
+                "last_update":"27.09.2024",
+                "author":"Slashez",
+                "version":"2",
+                "install":"Основной рп"
+            },    
+			"BloodNSV1":{
+                "link":"https://drive.google.com/file/d/1d-fu4TIyIXmY8BoX5XbK6bTU4BRxEgC6/view?usp=sharing",
+              	"image_link":"",
+                "description":"РП в красным оттенках.",
+                "last_update":"27.09.2024",
+                "author":"xXDeadForNyFill/Tryfelek",
+                "version":"2",
+                "install":"Основной рп" 
+			  },    
+			"lopukurp":{
+                "link":"https://drive.google.com/file/d/1aT3Eg_SsyDhK5jR9OVddrtlcuLODanVa/view?usp=sharing",
+              	"image_link":"",
+                "description":"Минималистичный рп.",
+                "last_update":"27.09.2024",
+                "author":"lopuku",
+                "version":"2",
+                "install":"Основной рп" 
+            }
+        },
+        "DLC":{
+            "ydobstvo DLC":{
+                "link":"https://drive.google.com/file/d/1cfFyCEKRlHoR_DfDTxe1zYnumENrpp4T/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1273339756998033428/1290007715669610617/image.png?ex=66fed94e&is=66fd87ce&hm=a80380c0960eac98f2a3e646166bd65c545871521c8342fb76205db130105f2d&",
+                "description":"DLC для того чтобы быстро искать лут",
+                "last_update":"Никогда",
+                "author":"tan_play_gan",
+                "version":"2",
+                "install":"Дополнение"
+            },
+            "Old Wooden Door":{
+                "link":"https://drive.google.com/file/d/1IPJW8m1DQTc00pChnZFQtqb4JktLy1tf/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1060890019159625759/1109490774111961128/pack.png?ex=66c6a50d&is=66c5538d&hm=e1b8a9e42be5d1270adef72bb230fb9912f95b45f59727a19688b4c772cbbfdf&",
+                "description":"Добавляет: \n - Дверь Door to Heaven!",
+                "last_update":"Никогда",
+                "author":"CLASS565 | https://discord.gg/rRBgS9hzQe",
+                "version":"2",
+                "partner": true,
+                "install":"Дополнение"
+            },
+            "White MVK Set":{
+                "link":"https://drive.google.com/file/d/1lirDPEuvG5u4Or219xhvrxDhe8tpDVgo/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1060890019159625759/1109491565203824650/pack.png?ex=66c6a5ca&is=66c5544a&hm=8445ef6285eccc477810ec1256a368077c9bd93454acfbab284c82a325efb592&",
+                "description":"Добавляет: \n - МВК сет Whiteout Set!",
+                "last_update":"Никогда",
+                "author":"CLASS565 | https://discord.gg/rRBgS9hzQe",
+                "version":"2",
+                "partner": true,
+                "install":"Дополнение"
+            },
+            "Old Hazmat":{
+                "link":"https://drive.google.com/file/d/1BPAd97bAN1vCzd6ROCe7sY7UL-J2Zifu/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1060890019159625759/1109492057187291336/pack.png?ex=66c6a63f&is=66c554bf&hm=c58fc8e92a789f9f22c8d3ba7ec566bb4726ce6c36bf5b93f055ef80e5356150&",
+                "description":"Добавляет: \n - Хазмат Spacesuit!",
+                "last_update":"Никогда",
+                "author":"CLASS565 | https://discord.gg/rRBgS9hzQe",
+                "version":"2",
+                "partner": true,
+                "install":"Дополнение"
+            },
+            "Old Coffee Set":{
+                "link":"https://drive.google.com/file/d/1C2QZaSMheq5QbVjPWrSU3LqB4rFhR2n-/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1060890019159625759/1109492664442818610/pack.png?ex=66c6a6d0&is=66c55550&hm=b8f67d2c1ff865adc8688a8433648b031b4bba040cf3f47e121dcabd9526d3d8&",
+                "description":"Добавляет: \n - Кофейную броню Scrap Hazard Set!",
+                "last_update":"Никогда",
+                "author":"CLASS565 | https://discord.gg/rRBgS9hzQe",
+                "version":"2",
+                "partner": true,
+                "install":"Дополнение"
+            },
+            "Зеленое небо":{
+                "link":"https://drive.google.com/file/d/1iaeZ-_6OnrfCemVo0Z4BAtHiqU-Qi5Gm/view?usp=sharing",
+                "image_link":"https://cdn.discordapp.com/attachments/1101777295083065344/1275806979830448221/image.png?ex=66c73b57&is=66c5e9d7&hm=450ea676289096abb4b7140f34ab382f5a28385bc9cd3393a188dc4e9aec8d63&",
+                "description":"Добавляет: \n - Зеленое небо!",
+                "last_update":"31.07.2024",
+                "author":"FagoNekomY",
+                "version":"2",
+                "install":"Дополнение"
+            },
+            "PinkDLCV1":{
+                "link":"https://drive.google.com/file/d/1ilfyZe-xSMYt7E05KiU6CF6OqsV8WiXB/view?usp=sharing",
+                "image_link":"https://i.imgur.com/JKWPf07.png",
+                "description":"Добавляет: \n - скины на ганы такие как : пешку/питон/револьвер/калаш/томик/берданка/мп5!\n- скин на маленький ящик/большой ящик!\n- инвентари!\n- HD мвк сет/кофф сет!",
+                "last_update":"04.09.2024",
+                "author":"Tryfelek",
+                "version":"2",
+                "install":"Дополнение"
+            },
+            "Xlub":{
+                "link":"https://drive.google.com/file/d/1JGjirUqBUSCIEoiDyaBBR3Mg3Is8f_nX/view?usp=drive_link",
+                "image_link":"",
+                "description":"ДЛС если устали от обычных текстур растми",
+                "last_update":"04.10.2024",
+                "author":"disertik",
+                "version":"2",
+                "install":"Дополнение"
+            },
+            "SKALKA V1":{
+                "link":"https://drive.google.com/drive/folders/1SUV5KEL84ft_5eQoE0sPhCnyXSRD2I0n?usp=sharing",
+				"image_link":"https://cdn.discordapp.com/attachments/1275829889458503730/1277492343934812294/kB12Tkm.png?уx=66ceae75&is=66cd5cf5&hm=c8b97116bf04f8672cc1f7fe9c8fc67daca320e806bad248cbdec39c99455d54&",
+                "description":"простенький рп, в будущем будет обновляться если рп не работает, распакуйте его.",
+                "last_update":"25.08.2024",
+                "author":"shaurmayt",
+                "version":"2",
+                "install":"Дополнение"
+            }
+        }
+    }
+}
+
+

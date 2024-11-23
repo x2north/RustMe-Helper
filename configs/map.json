@@ -1,0 +1,13 @@
+{
+    "RT": {
+        "mainmap": "https://cdn.discordapp.com/attachments/1101777295083065344/1281550899109433406/n4gR7eg.png?ex=66dc20c8&is=66dacf48&hm=6f3af5edc23eeb9589c478dc0a951081e9461b6be7e683d9270ad79ef97a2dfe&",
+        "Космодром": {
+            "map":"https://i.imgur.com/tRzIiRG.jpeg",
+            "Главное здание": "https://cdn.discordapp.com/attachments/1275829889458503730/1281629431760289842/wPJMRKQ.png?ex=66dc69ec&is=66db186c&hm=458e4b2bb32960df60964db7bc332aebc8f27dbe756a5342a9921b5ab4fabdc7&",
+            "Ракета": "https://cdn.discordapp.com/attachments/1101777295083065344/1281543076807966812/QKHZW6q.png?ex=66dc197f&is=66dac7ff&hm=e7717b0b80ff015345e45198692b4a56bf2788d2a93e4b1f3f620a36cd9464b2&"
+        },
+        "Арктическая станция": "https://cdn.discordapp.com/attachments/1101777295083065344/1281562110316384286/7UEVaSE.png?ex=66dc2b39&is=66dad9b9&hm=c3044dde13c401ee130164237cfc6b0203a773bbce804834e077f252d12617e8&",
+        "Свалка": "https://cdn.discordapp.com/attachments/1101777295083065344/1281559582715674708/zX12dnb.png?ex=66dc28de&is=66dad75e&hm=f6965b98b4e50af4dc45ddf1ad3904f21f7dcdc7bfa5480f83092ffb01d025a4&",
+        "Водоочистные сооружения":"https://cdn.discordapp.com/attachments/1101777295083065344/1281561700880875611/03TxjpX.png?ex=66dc2ad7&is=66dad957&hm=92903601064be1ced905b68f56b7af1a2de9fde994eb1af3778e9bf179e06381&"
+    }
+}

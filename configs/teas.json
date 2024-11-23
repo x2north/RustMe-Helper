@@ -1,0 +1,52 @@
+{
+    "teas":{
+        "FarmTea":{
+            "Yellow":"True", 
+            "Blue":"True",
+            "description":"Увеличивает фарм руд на x%",
+            "pure":"<:pure_ore_tea:1279541266119524535>",
+            "advanced":"<:advanced_ore_tea:1279541233597026384>",
+            "basic":"<:basic_ore_tea:1279541204056277032>"
+        },
+        "TreeTea":{
+            "Red":"True", 
+            "Blue":"True",
+            "description":"Увеличивает фарм дерева на x%",
+            "pure":"<:pure_wood_tea:1279541430338977793>",
+            "advanced":"<:advanced_wood_tea:1279541405282336829>",
+            "basic":"<:basic_wood_tea:1279541379269267507>"
+        },
+        "ScrapTea":{
+            "Yellow":"True", 
+            "White":"True",
+            "description":"Увеличивает фарм скрапа на x%",
+            "pure":"<:pure_scrap_tea:1279541350831751262>",
+            "advanced":"<:advanced_scrap_tea:1279541325594890423>",
+            "basic":"<:basic_scrap_tea:1279541300084871300>"
+        },
+        "RadiationTea":{
+            "Red":"True", 
+            "Green":"True",
+            "description":"Увеличивает порог радиации на x%",
+            "pure":"<:pure_antirad_tea:1279541093314330685>",
+            "advanced":"<:advanced_antirad_tea:1279541069259870359>",
+            "basic":"<:basic_antirad_tea:1279541010916966460>"
+        },
+        "HPTea":{
+            "Red":"True", 
+            "Yellow":"True",
+            "description":"Увеличивает макс. хп на x%",
+            "pure":"<:pure_max_health_tea:1279541171680579647>",
+            "advanced":"<:advanced_max_health_tea:1279541145331826818>",
+            "basic":"<:basic_max_health_tea:1279541119402774538>"
+       
+        },
+        "RegenTea":{
+            "Red":"True", 
+            "description":"Восстанавливает x хп",
+            "pure":"<:pure_healing_tea:1279540975911436339>",
+            "advanced":"<:advanced_healing_tea:1279540942503678002>",
+            "basic":"<:basic_healing_tea:1279540909075206174>"
+        }
+    }
+}
