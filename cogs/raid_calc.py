@@ -107,10 +107,10 @@ class MyModal(discord.ui.Modal):
         if optimal_str:
             embed.add_field(name="👍 Оптимально:", value="\n".join(optimal_str), inline=False)
             embed.add_field(name="", value="-------------", inline=False)
-        embed.add_field(name=f"{emojis['c4']} Взрывчатка C4", value=f"x{total["c4"]}", inline=False)
-        embed.add_field(name=f"{emojis['rocket']} Боевая ракета", value=f"x{total["rockets"]}", inline=False)
-        embed.add_field(name=f"{emojis['exp']} Разрывной патрон", value=f"x{total["exp"]}", inline=False)
-        embed.add_field(name=f"{emojis['satchel']} Связка бобовых гранат", value=f"x{total["satchels"]}", inline=False)
+        embed.add_field(name=f"{emojis['c4']} Взрывчатка C4", value=f"x{total['c4']}", inline=False)
+        embed.add_field(name=f"{emojis['rocket']} Боевая ракета", value=f"x{total['rockets']}", inline=False)
+        embed.add_field(name=f"{emojis['exp']} Разрывной патрон", value=f"x{total['exp']}", inline=False)
+        embed.add_field(name=f"{emojis['satchel']} Связка бобовых гранат", value=f"x{total['satchels']}", inline=False)
         logger.info(f"{interaction.user.name} использовал калькулятор рейда.")
 
         await interaction.followup.send(embed=embed, ephemeral=True)
